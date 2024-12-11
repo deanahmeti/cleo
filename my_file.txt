@@ -1,0 +1,6 @@
+# This is a configuration file
+# Edit this to configure the program
+
+setting_1 = True
+setting_2 = "Hello, world"
+
